@@ -6,6 +6,9 @@ Notion's built-in markdown importer breaks image references from Obsidian. It do
 
 Tested with a vault of **267 notes and 2,331 images** — everything migrated successfully.
 
+<img width="1478" height="740" alt="image" src="https://github.com/user-attachments/assets/02bf0c1f-84e0-4b32-9081-5a9954c5c2fc" />
+
+
 ---
 
 ## How It Works
